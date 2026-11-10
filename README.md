@@ -21,6 +21,7 @@ npm install
 npm run dev      # start the dev server
 npm run build    # production build
 npm run lint
+
 ```
 
 ## Structure
